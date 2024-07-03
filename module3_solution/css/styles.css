@@ -1,0 +1,21 @@
+body{
+    font-size: 16px;
+    color: black;
+    margin: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: inherit;
+}
+
+.navbar{
+    background: grey;
+    padding: 15px;
+ 
+}
+
+
+
