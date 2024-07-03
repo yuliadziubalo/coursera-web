@@ -4,18 +4,38 @@ body{
     margin: 0;
 }
 
-a {
-    outline: none;
-    text-decoration: none;
-    padding: 2px 1px 0;
-    color: inherit;
+.navbar-brand{
+    color: black;
+    font-size: 28px;
 }
 
 .navbar{
-    background: grey;
+    background: #6294ca;
     padding: 15px;
- 
+    border-radius:  0;
+}
+.icon-bar{
+    background-color: black;
 }
 
+.navbar-toggle{
+    border: 2px solid black
+
+}
+
+.navbar-nav a{
+    color: black;
+}
+
+.visible-xs{
+    display: none;
+}
+
+.story{
+    background-color: grey;
+    height: 1000px;
+    margin: 20px;
+    padding: 15px;
+}
 
 
